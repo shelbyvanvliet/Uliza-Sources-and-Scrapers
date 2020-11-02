@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<typecraft xsi:schemaLocation="http://typecraft.org/typecraft.xsd" xmlns="http://typecraft.org/typecraft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <text id="925" lang="aka">
+        <title>Sentence collection (Bono)</title>
+        <titleTranslation>not yet instantiated </titleTranslation>
+        <extraMetadata setName="Default"/>
+        <body>&lt;p&gt;&lt;span class="phrase" id="phr10617"&gt;Ghanafoɔ wɔ gyedie sɛ nsanom ɛnmoa sukuufoɔ&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="phrase" id="phr10618"&gt;ɔsensene ankaa tɔne&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="phrase" id="phr10619"&gt;kofi tɔɔ ankaa firii ankaasensenetɔnfoɔ no hɔ&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="phrase" id="phr10620"&gt;papa no yɛ adwuma de kyɛ abane&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="phrase" id="phr10621"&gt;yɛadumandekyɛabane maa ɛkɔm kuu papa no.&lt;/span&gt;&lt;/p&gt;</body>
+        <phrase id="10617" valid="EMPTY">
+            <original>Ghanafoɔ wɔ gyedie sɛ nsanom ɛnmoa sukuufoɔ</original>
+            <translation></translation>
+            <globaltags id="1" tagset="Default"/>
+        </phrase>
+        <phrase id="10618" valid="EMPTY">
+            <original>ɔsensene ankaa tɔne</original>
+            <translation></translation>
+            <globaltags id="1" tagset="Default"/>
+        </phrase>
+        <phrase id="10619" valid="EMPTY">
+            <original>kofi tɔɔ ankaa firii ankaasensenetɔnfoɔ no hɔ</original>
+            <translation></translation>
+            <globaltags id="1" tagset="Default"/>
+        </phrase>
+        <phrase id="10620" valid="EMPTY">
+            <original>papa no yɛ adwuma de kyɛ abane</original>
+            <translation></translation>
+            <globaltags id="1" tagset="Default"/>
+        </phrase>
+        <phrase id="10621" valid="EMPTY">
+            <original>yɛadumandekyɛabane maa ɛkɔm kuu papa no.</original>
+            <translation></translation>
+            <globaltags id="1" tagset="Default"/>
+        </phrase>
+    </text>
+</typecraft>
